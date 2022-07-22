@@ -18,7 +18,7 @@ Ainsi, tel un robot intelligent, P-Tank peut se mouvoir seul dans son espace, de
 
 Pour concevoir cet ambitieux projet, nous avons pu compter sur une équipe des plus compétente.
 
-Margaux Malsch, Nicolas Mopin, Sacha Le Bras, Sacha Galeuzzi, Ahmed-jibril Ait Ouaret,Ayoub El Guendouz et Hugo Boudalier ont travaillé sur les différentes fonctions offertes par P-Tank.
+Margaux Malsch, **Nicolas Mopin, Sacha Le Bras, Sacha Galeuzzi, Ahmed-jibril Ait Ouaret, Ayoub El Guendouz et Hugo Boudalier** ont travaillé sur les différentes fonctions offertes par P-Tank.
 
 
 Nous sommes aujourd'hui très fiers de P-Tank. Mais avec un peu plus de temps, nous aurions pu encore l'améliorer. Nous aurions par exemple aimer intégrer un Klaxon, ou encore un système permettant de lancer des projectiles. P-Tank, aurait pu être non seulement un véhicule pouvant se déplacer intelligemment, mais aussi une véritable machine de guerre.
